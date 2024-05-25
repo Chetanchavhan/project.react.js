@@ -1,0 +1,42 @@
+{
+
+    "data": [
+      {
+        "id": 7,
+        "email": "michael.lawson@reqres.in",
+        "discription" : "Red to show your sincere you are",
+        "avatar": "https://images.pexels.com/photos/20591481/pexels-photo-20591481/free-photo-of-red-to-show-your-sincere-you-are.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 8,
+        "email": "lindsay.ferguson@reqres.in",
+        "discription" : "Grayscale Photography of Man Wearing Floral Collared Button-up Shirt Standing Near Pipe",
+        "avatar": "https://images.pexels.com/photos/2952611/pexels-photo-2952611.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+      },
+      {
+        "id": 9,
+        "email": "tobias.funke@reqres.in",
+        "discription" : "Man Doing Relaxing Hands",
+        "avatar": "https://images.pexels.com/photos/1585634/pexels-photo-1585634.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+      },
+      {
+        "id": 10,
+        "email": "byron.fields@reqres.in",
+        "discription" : "Man Wearing Black Hat And Shirt        ",
+        "avatar": "https://images.pexels.com/photos/2805248/pexels-photo-2805248.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+      },
+      {
+        "id": 11,
+        "email": "george.edwards@reqres.in",
+        "discription" : "Photo Of Man Wearing Black Eyeglasses        ",
+        "avatar": "https://images.pexels.com/photos/3751397/pexels-photo-3751397.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+      },
+      {
+        "id": 12,
+        "email": "rachel.howell@reqres.in",
+        "discription" : "Man Holding Sunglasses",
+        "avatar": "https://images.pexels.com/photos/2866083/pexels-photo-2866083.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+      }
+    ]
+
+  }

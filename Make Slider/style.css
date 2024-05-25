@@ -1,0 +1,39 @@
+body{
+    font-family: Georgia, serif;
+}
+
+button img{
+    height:30px;
+    width: 30px;
+    margin-top: 5px;
+    border-radius: 20px;
+}
+button{
+    border: none;
+    background: transparent
+    
+}
+
+.carousel-inner
+{
+    
+    width: 100%;
+}
+.carousel-item
+{
+    position: relative;
+}
+.carousel-item .text
+{
+    position: absolute;
+    top: 80%;
+    bottom: 1%;
+}
+.text h1{
+    color: white;
+}
+.text h6
+{
+    position: relative;
+    bottom: 7%;
+}
